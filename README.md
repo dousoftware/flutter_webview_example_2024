@@ -1,16 +1,6 @@
 # flutter_webview_example_2024
 
-A new Flutter project.
+Flutter'da webview kullanım örneği
 
-## Getting Started
+![Ekran görüntüsü 2024-03-13 193639](https://github.com/dousoftware/flutter_webview_example_2024/assets/60797535/bd594fb2-771c-4e5c-af37-61620aef668c)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
